@@ -14,8 +14,11 @@ $(function() {
 	          0 : {
 	              items: 1
 	          },
-	          768 : {
-	              items: 3
+	          500 : {
+	              items: 2
+	          },
+	          650 : {
+	          		items: 3
 	          },
 	          960 : {
 	              items: 4
